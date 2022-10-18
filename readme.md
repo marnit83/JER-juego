@@ -80,7 +80,7 @@ Production files will be placed in the `dist` folder. Then upload those files to
     ├── public
     ├── src
     │   ├── scenes
-    │   │   ├── HelloWorldScene.js
+    │   │   ├── LoadScene.js
     │   ├── index.html
     │   ├── main.js
     ├── package.json
@@ -92,7 +92,7 @@ This template assumes you will want to organize your code into multiple files an
 
 JavaScript files are intended for the `src` folder. `main.js` is the entry point referenced by `index.html`.
 
-Other than that there is no opinion on how you should structure your project. There is a `scenes` folder in `src` where the `HelloWorldScene.js` lives but you can do whatever you want.
+Other than that there is no opinion on how you should structure your project. There is a `scenes` folder in `src` where the `LoadScene.js` lives but you can do whatever you want.
 
 ## Static Assets
 
