@@ -7,8 +7,8 @@
 
 <h3>Integrantes</h3>
 <p><b>Pablo Alonso Guzmán:</b> Narrativa</p>
-<p><b>Mail URJC:</b>p.Alonso.2020</p>
-<p><b>Nombre GIT:</b>Pabliiito17</p>
+<p><b>Mail URJC:</b>  p.Alonso.2020</p>
+<p><b>Nombre GIT:</b> Pabliiito17</p>
 <p><b>Jesús Gálvez Lao:</b> Aspectos técnicos</p>
 <p><b>Mail URJC:</b>j.Galvez.2018</p>
 <p><b>Nombre GIT:</b>JesusLao</p>
