@@ -12,14 +12,22 @@
   <li><p><b>Nombre GIT:</b> Pabliiito17</p></li>
 </ul>
 <p><b>Jesús Gálvez Lao:</b> Aspectos técnicos</p>
-<p><b>Mail URJC:</b>j.Galvez.2018</p>
-<p><b>Nombre GIT:</b>JesusLao</p>
+<ul>
+  <li><p><b>Mail URJC:</b>j.Galvez.2018</p></li>
+  <li><p><b>Nombre GIT:</b>JesusLao</p></li>
+  </ul>
 <p><b>José Antonio Milán Jiménez: </b>Apartado artístico</p>
-<p><b>Mail URJC:</b>j.milan.2019</p>
-<p><b>Nombre GIT:</b>JoseMilan19</p>
+<ul>
+  <li><p><b>Mail URJC:</b>j.milan.2019</p></li>
+  <li><p><b>Nombre GIT:</b>JoseMilan19</p></li>
+ </ul>
 <p><strong>Héctor Muñoz Gómez: </strong>Redes sociales y música</p>
-<p><b>Mail URJC:</b>h.munoz.2019</p>
-<p><b>Nombre GIT:</b>Sh3ry01</p>
+<ul>
+  <li><p><b>Mail URJC:</b>h.munoz.2019</p></li>
+  <li><p><b>Nombre GIT:</b>Sh3ry01</p></li>
+  </ul>
 <p><b>Martin Vogels Bejarano:</b> Jugabilidad</p>
-<p><b>Mail URJC:</b>m.vogels.2019</p>
-<p><b>Nombre GIT:</b>Marnit83</p>
+<ul>
+  <li><p><b>Mail URJC:</b>m.vogels.2019</p></li>
+  <li><p><b>Nombre GIT:</b>Marnit83</p></li>
+  </ul>
