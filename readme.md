@@ -6,8 +6,8 @@
 <h3>Integrantes</h3>
 <p>Pablo Alonso Guzmán: </p>
 <p>Jesús Gálvez Lao: </p>
-<p><b>José Antonio Milán Jiménez: </b></p>
-<p>Héctor Muñoz Gómez</p>
+<p><b>José Antonio Milán Jiménez:</b>Apartado artístico</p>
+<p><strong>Héctor Muñoz Gómez</strong>  Redes sociales y música</p>
 <p>Martin Vogels Bejarano</p>
 
 
