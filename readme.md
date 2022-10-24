@@ -1,3 +1,4 @@
+<p>asdasdasdasdasdasdsaasd</p>
 Nombre del juego: DUELS OF FATE
 Descripcion de la tematica: 
 
