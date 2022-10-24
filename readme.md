@@ -1,5 +1,5 @@
-<p>asdasdasdasdasdasdsaasd</p>
-Nombre del juego: DUELS OF FATE
+<h1>DUELS OF FATE</h1>
+
 Descripcion de la tematica: 
 
 
