@@ -1,5 +1,7 @@
 Nombre del juego: DUELS OF FATE
 Descripcion de la tematica: 
+
+
 Integrantes:
 Martin Vogels
 Jesus Gálvez
