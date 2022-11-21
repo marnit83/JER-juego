@@ -7,8 +7,8 @@ class Jugador extends Phaser.GameObjects.Sprite{
         this.body.setCollideWorldBounds(true);
         this.body.setBounce(0.2);
 
-        // this.vida=100;
-        // this.resistencia=0;
-        // this.ataque=5;
+        this.vida=100;
+        this.resistencia=0;
+        this.ataque=5;
     }
 }

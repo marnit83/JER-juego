@@ -3,7 +3,7 @@ class Nivel1 extends Phaser.Scene{
         super({key:"Nivel1", active: true});
     }
     create(){
-        this.player = new Armas(this,100, 450, 'dude');
+        this.player = new Jugador(this,100, 450, 'dude');
         this.player.setData('ataque',5);
 
         this.arma = new Armas(this, 700, 300, "bomb");
@@ -56,8 +56,8 @@ class Nivel1 extends Phaser.Scene{
     }
 
     CogeArma(){
-        this.player.setData('ataque',this.player.getData('ataque')+5);
-        console.log(this.player.getData('ataque'));
+        this.player.ataque+=5;
+        console.log(this.player.ataque);
         this.arma.x=2000;
     }
 }
