@@ -2,6 +2,7 @@ var s1=0;//variqble controla shield
 var s2=0;
 var p1=0;//punch
 var p2=0;
+var dir=0;
 //var this.player;
 //var this.player2;
 //var arma;
@@ -28,8 +29,8 @@ class Nivel1 extends Phaser.Scene{
         this.physics.add.collider(this.player,this.arma,this.PegarDistancia,null,this);
         this.physics.add.collider(this.player2,this.arma,this.PegarDistancia,null,this);
         
-        this.physics.add.collider(this.player,this.arma,this.CogeArma,null,this);
-        this.physics.add.collider(this.player2,this.arma,this.CogeArma,null,this);
+        this.physics.add.overlap(this.player,this.arma,this.CogeArma,null,this);
+        this.physics.add.overlap(this.player2,this.arma,this.CogeArma,null,this);
 
         //Colision entre jugador y terreno
         this.physics.add.collider(this.player,this.terreno,null,null,this);
@@ -106,7 +107,24 @@ class Nivel1 extends Phaser.Scene{
                         
             
         }
-        else if (this.player.rightObj.isDown)
+
+        else if (this.player.leftObj.isDown&&(dir==0||dir==1)){
+            
+            //this.player.setVelocityX(-260);
+            if (p2==1){
+                this.player.anims.play('punchL', true);
+                //this.player.x--;
+            }else{
+                this.player.anims.play('runL', true);
+                //this.player.x--;
+                p1=2;
+                dir=1;
+            }
+            
+    
+        }
+
+        else if (this.player.rightObj.isDown&&(dir==0||dir==2))
         {
             
             //this.player.setVelocityX(260);
@@ -118,33 +136,20 @@ class Nivel1 extends Phaser.Scene{
                 this.player.anims.play('runR', true);
                 //this.player.x++;
                 p1=0;
+                dir=2;
             }
         }
         
-        else if (this.player.leftObj.isDown){
-            
-            //this.player.setVelocityX(-260);
-            if (p2==1){
-                this.player.anims.play('punchL', true);
-                this.player.x--;
-            }else{
-                this.player.anims.play('runL', true);
-                //this.player.x--;
-                p1=2;
-            }
-            
-    
-        }
+        
         
         else if (p1==0){
             this.player.anims.play('staticR', true);
+            dir=0;
 
         }else if(p1==2){
             this.player.anims.play('staticL', true);
+            dir=0;
 
-        }else if (this.player.upObj.isDown && this.player.body.onFloor())
-        {
-            
         }
                     
                    
