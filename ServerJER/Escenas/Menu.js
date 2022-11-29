@@ -49,8 +49,7 @@ class Menu extends Phaser.Scene {
         var that = this;
         this.bJugar.on('pointerdown', function(pointer){
             that.sound.play('BAudio', {volume: 0.2});
-            that.scene.start("Nivel1");
-            that.scene.start("Arte");
+            that.scene.start("Historia");
         });
         this.bSalir.on('pointerdown', function(pointer){
             that.sound.play('BAudio', {volume: 0.2});

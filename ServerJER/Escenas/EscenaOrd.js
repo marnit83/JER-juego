@@ -10,6 +10,7 @@ class EscenaOrd extends Phaser.Scene {
         this.scene.add("Controles", new Controles);
         this.scene.add("Arte", new Arte);
         this.scene.add("Nivel1", new Nivel1);
+        this.scene.add("Historia", new Historia);
     }
 
     create(){

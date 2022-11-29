@@ -34,6 +34,7 @@ class Arte extends Phaser.Scene{
         this.load.image('bomb', './Assets/bomb.png');
         //this.load.spritesheet('dude', './Assets/dude.png', { frameWidth: 32, frameHeight: 48 });
         this.load.image('swordI', './Assets/sword.png');
+        this.load.image('IngameUI', './Assets/INGAME_UI_v3.png')
         //personje 1
         
         this.load.spritesheet('static', './Assets/static.png', { frameWidth: 40, frameHeight: 98 });
@@ -57,8 +58,12 @@ class Arte extends Phaser.Scene{
 
     }
     create(){
-        this.add.image(700, 300, 'sky').setDisplaySize(1500,600);
-        this.add.image(400, 300, 'star');
+        this.qPressed = this.input.keyboard.addKey('q');//Volver al menu
+        this.rPressed = this.input.keyboard.addKey('r');//Resume
+        this.add.image(710, 300, 'escenarioDos');
+        this.add.image(710,300,'IngameUI').setScale(0.5);
+
+        this.yPressed = this.input.keyboard.addKey('y');
         //this.add.image(400, 500, 'swordI');
         
         //this.ground=this.add.image(700, 600, 'ground').setDisplaySize(1500,50);
@@ -308,5 +313,21 @@ class Arte extends Phaser.Scene{
 
         
         
+    }update(){
+        if(this.qPressed.isDown){
+            //this.scene.stop("Arte");
+            this.scene.start("Menu");
+            this.scene.stop("Nivel1");
+        }
+        if(this.rPressed.isDown){
+            //console.log("klk");
+            this.scene.resume("Nivel1");
+        }
+        if(this.yPressed.isDown){
+            //this.game.sound.stopAll();
+            this.scene.start("Menu")
+            this.scene.stop("Arte");
+            this.scene.stop("Nivel1");
+        }
     }
 }
