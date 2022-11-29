@@ -3,7 +3,7 @@ const config = {
     width:1420,
     height:600,
     parent:"container",
-    scene: [Arte, Nivel1, Nivel2],
+    scene: [EscenaOrd],
 
     physics: {
         default: "arcade",

@@ -41,22 +41,22 @@ class Jugador extends Phaser.GameObjects.Sprite{
 
     Controles(){
         if(this.rightObj.isDown&&!this.cubriendose&&!this.leftObj.isDown){
-            this.body.setVelocityX(260);
+            this.body.x+=3;
         }
         if(this.rightObj.isUp&&!this.leftObj.isDown){
-            this.body.setVelocityX(0);
+            //this.body.setVelocityX(0);
         }
         if(this.leftObj.isDown&&!this.cubriendose&&!this.rightObj.isDown){
-            this.body.setVelocityX(-260);
+            this.body.x-=3;
         }
         if(this.leftObj.isUp&&!this.rightObj.isDown){
-            this.body.setVelocityX(0);
+            //this.body.setVelocityX(0);
         }
         if(this.upObj.isDown&&this.body.onFloor()&&!this.cubriendose){
             this.body.setVelocityY(-200);
         }
         if(this.downObj.isDown&&!this.cubriendose&&this.pesado&&this.ligero){
-            this.body.setVelocity(0);
+            //this.body.setVelocity(0);
             this.resistencia+=5;
             console.log(this.resistencia);
             this.cubriendose=true;
@@ -84,8 +84,8 @@ class Jugador extends Phaser.GameObjects.Sprite{
             this.armaCogidaAtk=null;
         }
         if(this.armaCogida!=null&&!this.lanzada){
-            this.armaCogida.body.x=this.body.x+40;
-            this.armaCogida.body.y=this.body.y+20;
+            this.armaCogida.body.x=2000
+
         }
 
         

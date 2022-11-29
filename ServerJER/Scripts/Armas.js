@@ -3,7 +3,7 @@ class Armas extends Phaser.GameObjects.Sprite{
         super(scene,x,y,type);
         scene.add.existing(this);
         scene.physics.world.enable(this);
-        //this.body.immovable=true;
+        this.body.immovable=true;
         this.body.setCollideWorldBounds(false);
         this.body.allowGravity=false;
 
