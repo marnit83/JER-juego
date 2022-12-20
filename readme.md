@@ -51,6 +51,19 @@ Un jugador va a combatir contra otro jugador para lograr avanzar al siguiente `n
 
 ##  Controles
 ![Controles](https://user-images.githubusercontent.com/91007943/204342393-b722d27c-b557-443c-add5-dda1ed227593.png)
+## Diagrama de clases
+![image (2)](https://user-images.githubusercontent.com/91007943/208768156-b5b57e2c-b388-44a1-ad25-8b38317a68d8.png)
+
+## Camino Manual
+
+Ejecutar el archivo TT_SERVER_RELEASE_FASE3.jar Desde DigitalConfetti desaconsejamos hacer click y ya está; puesto que esto generará un proceso de muy dificil acceso de terminar. Por lo que aconsejamos el uso del siguiente comando, desde una terminal situada en el directorio /TT_Server_RELEASE_Fase3
+java -jar TT_SERVER_RELEASE_FASE3.jar
+
+-Tras haber ejecutado el servidor deberas ir a tu navegador y escribir -> localhost:8080
+
+*Si algun amigo tuyo quiere conectarse al servidor tendra que sustituir "localhost" por tu ip local -> ipLocal:8080 (solo si estais en la misma red)
+
+Desde GGGames recomendamos investigar que es y como encontrar tu ip local, enlace recomendado: https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347
 
 ##### Integrantes:
 - 🎅 Pablo Alonso Guzmán:
