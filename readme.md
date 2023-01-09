@@ -39,20 +39,42 @@ En el menú principal vamos a poder ir a las diferentes escenas de nuestro video
 
 - Mediante los 🟥 `Botones rojos` vamos a poder elegir los diferentes menus que disponemos en el juego.
 
-![MENU_INICIO](https://user-images.githubusercontent.com/91007943/204342323-a19834bc-9e39-4ca2-b3ae-8d293ed8a72d.png)
+![223bd749201771d5b988bde8cca735a3](https://user-images.githubusercontent.com/91007943/211405991-54f068cc-7192-4acb-8fed-e42e1197c513.png)
+###  Selección de nivel
+Vamos a poder elegir el nivel en el que vamos a jugar la partida.
+
+
+![a8bb33599c7081601a7c6cb33f1f5adb](https://user-images.githubusercontent.com/91007943/211406076-541d8e7e-ec09-4a88-93f6-1d6fb6af39cd.png)
 
 ##  Combate
 
 En esta pantalla va a ser donde se va a desarrollar nuestro juego.
 Un jugador va a combatir contra otro jugador para lograr avanzar al siguiente `nivel`.
 
-![escenarioDos](https://user-images.githubusercontent.com/91007943/204623013-dd45fc5c-f0c6-44cd-a9b5-5415c8d26d0c.jpg)
+![da6e84e5c98d13191bd5837c59f65cfb](https://user-images.githubusercontent.com/91007943/211406032-fc748bd6-ecfe-4997-815b-6983bdf55207.png)
+###  Menú pausa
+Presionando la tecla `ESC` o el `pausa🟥` paramos el combate y nos aparecera esta escena.
 
+Dandole a `reanudar 🟥` podremos volver a la patida.
+
+![4c67c2a8168d64ce32dfd25e49ecdf5a](https://user-images.githubusercontent.com/91007943/211406871-3816e1b2-5deb-423a-9b11-5a8f811a5d08.png)
 
 ##  Controles
 ![Controles](https://user-images.githubusercontent.com/91007943/204342393-b722d27c-b557-443c-add5-dda1ed227593.png)
 ## Diagrama de clases
 ![image (2)](https://user-images.githubusercontent.com/91007943/208768156-b5b57e2c-b388-44a1-ad25-8b38317a68d8.png)
+
+## Assets propios
+[Menu](https://user-images.githubusercontent.com/91007943/211408152-330e47ab-8cd6-41ac-83c1-3e5b9ed549de.png)
+
+[Imagenes escenarios](https://user-images.githubusercontent.com/91007943/211408176-870f4b21-2776-4e4c-8ede-b19b8104fe5f.png)
+
+[Personajes](https://user-images.githubusercontent.com/91007943/211408258-6e5bf471-3254-48fa-a774-afed5091b7d3.png)
+
+[Armas](https://user-images.githubusercontent.com/91007943/211408304-bda0a94d-b93b-4753-a169-f4572c0068f3.png)
+
+## Assets externos
+[Sonidos](http://www.sonidosmp3gratis.com/salto)
 
 ## Camino Manual
 
@@ -65,6 +87,8 @@ java -jar TT_SERVER_RELEASE_FASE3.jar
 
 Desde GGGames recomendamos investigar que es y como encontrar tu ip local, enlace recomendado: https://computerhoy.com/paso-a-paso/internet/como-saber-cual-es-direccion-ip-mi-ordenador-24347
 
+
+![62f29b7b683d612d802167d5cd43614b](https://user-images.githubusercontent.com/91007943/211406360-e8b03236-af4a-47ca-bf43-1403a543d719.png)
 ##### Integrantes:
 - 🎅 Pablo Alonso Guzmán:
   
@@ -84,4 +108,5 @@ Desde GGGames recomendamos investigar que es y como encontrar tu ip local, enlac
   
       Correo: j.milan.2019@alumnos.urjc.es
       GitHub: https://github.com/JoseMilan19
+      
 
