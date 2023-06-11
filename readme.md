@@ -91,22 +91,23 @@ Desde GGGames recomendamos investigar que es y como encontrar tu ip local, enlac
 ![62f29b7b683d612d802167d5cd43614b](https://user-images.githubusercontent.com/91007943/211406360-e8b03236-af4a-47ca-bf43-1403a543d719.png)
 ##### Integrantes:
 - 🎅 Pablo Alonso Guzmán:
-  
       Correo: p.Alonso.2020@alumnos.urjc.es 
       GitHub: https://github.com/Pabliiito17
+      
 - 🎅 Héctor Muñoz Gómez.
-
       Correo: h.munoz.2019@alumnos.urjc.es
       GitHub: https://github.com/Sh3ry01
   
 - 🎅 Jesús Gálvez Lao.
-  
       Correo: j.Galvez.2018@alumnos.urjc.es
       GitHub: https://github.com/JesusLao
   
 - 🎅 José Antonio Milán Jiménez.
-  
       Correo: j.milan.2019@alumnos.urjc.es
-      GitHub: https://github.com/JoseMilan19
+      GitHub: https://github.com/JoseMilan19- 
+      
+- 🎅 Martin Vogels Bejarano.
+      Correo: m.vogels.2019@alumnos.urjc.es
+      GitHub: https://github.com/martinvogels00
       
 
