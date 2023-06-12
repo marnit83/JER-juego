@@ -5,6 +5,9 @@ Duel of the Fates es un juego de lucha 2D de dos jugadores uno contra uno.  El j
 
 Allí los jugadores deberán volver a luchar para conseguir derrotar al contrincante. Sin embargo, una vez la intensa batalla finalice, el alienígena vuelve a aparecer para llevarlos al último espacio-tiempo de todos, el planeta de fuego Mustafar. En concreto, Héctor y Aquiles deberán luchar por última vez en un río de lava.
 
+### Video explicativo
+--> https://www.youtube.com/watch?v=KBpoAWLxksk
+
 ### Controles para esta version del videojuego:
 #### Controles jugador  1  :
 `W` `S` `A` `D`  ➡️ Movimiento personaje.
@@ -91,7 +94,6 @@ Desde GGGames recomendamos investigar que es y como encontrar tu ip local, enlac
 ![62f29b7b683d612d802167d5cd43614b](https://user-images.githubusercontent.com/91007943/211406360-e8b03236-af4a-47ca-bf43-1403a543d719.png)
 
 
-VIDEO EXPLICATIVO -- https://www.youtube.com/watch?v=KBpoAWLxksk
 ##### Integrantes:
 - 🎅 Pablo Alonso Guzmán:
       Correo: p.Alonso.2020@alumnos.urjc.es 
