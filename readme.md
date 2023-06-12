@@ -9,7 +9,7 @@ Allí los jugadores deberán volver a luchar para conseguir derrotar al contrinc
 --> https://www.youtube.com/watch?v=KBpoAWLxksk
 
 ### Archivo JAR en Drive
---> https://drive.google.com/file/d/1jItRNiT1hVeF_6xkYOrCildrwaL_9OIA/view?usp=drive_link
+--> https://drive.google.com/file/d/1lSV26y8wyD-UBi9qi9ppc12bRvH8ypxh/view?usp=sharing
 
 ### Controles para esta version del videojuego:
 #### Controles jugador  1  :
