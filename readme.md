@@ -89,6 +89,9 @@ Desde GGGames recomendamos investigar que es y como encontrar tu ip local, enlac
 
 
 ![62f29b7b683d612d802167d5cd43614b](https://user-images.githubusercontent.com/91007943/211406360-e8b03236-af4a-47ca-bf43-1403a543d719.png)
+
+
+VIDEO EXPLICATIVO -- https://www.youtube.com/watch?v=KBpoAWLxksk
 ##### Integrantes:
 - 🎅 Pablo Alonso Guzmán:
       Correo: p.Alonso.2020@alumnos.urjc.es 
