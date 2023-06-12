@@ -8,6 +8,9 @@ Allí los jugadores deberán volver a luchar para conseguir derrotar al contrinc
 ### Video explicativo
 --> https://www.youtube.com/watch?v=KBpoAWLxksk
 
+### Archivo JAR en Drive
+--> https://drive.google.com/file/d/1jItRNiT1hVeF_6xkYOrCildrwaL_9OIA/view?usp=drive_link
+
 ### Controles para esta version del videojuego:
 #### Controles jugador  1  :
 `W` `S` `A` `D`  ➡️ Movimiento personaje.
